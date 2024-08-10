@@ -1,0 +1,28 @@
+.body{
+     font-family: arial, helvetica;
+       background:"FONDO.jpg";
+}
+.menu{
+    list - style: none;
+    podding:0;
+    background:#1e509d;
+    width:90%;
+    max-width:1000px;
+    margin:auto;
+}
+
+.menu li a{
+     text-decoration:none;
+     color:white;
+     padding:20px;
+     display:block;
+}
+
+.menu li{
+     display: inline-block;
+      text-align:center;
+}
+
+.menu li a:hover{ 
+   background:#ef8354;
+}
